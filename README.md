@@ -79,6 +79,7 @@ These filters make the analysis **fully interactive and user-driven.**
 ---
 
 ## 📸 Dashboard Preview
+![Netflix Dashboard](netflix_dashboard.png)
 
 ---
 
